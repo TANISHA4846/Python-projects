@@ -1,5 +1,4 @@
 # Python-projects
-Python Projects Collection
 
 Welcome to my collection of mini Python projects!  
 
